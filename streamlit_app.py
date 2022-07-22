@@ -74,7 +74,7 @@ if streamlit.button('Get Fruit Load List'):
   
   
 # don't run anything past here while we troubleshoot
-streamlit.stop()
+#streamlit.stop()
   
   
   
